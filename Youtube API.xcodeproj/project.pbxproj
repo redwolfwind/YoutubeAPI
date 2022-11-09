@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		593567872908BFFB00E4B4F0 /* main.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = main.py; sourceTree = "<group>"; };
+		593567882908C06800E4B4F0 /* templates */ = {isa = PBXFileReference; lastKnownFileType = folder; path = templates; sourceTree = "<group>"; };
+		593567892908C59500E4B4F0 /* static */ = {isa = PBXFileReference; lastKnownFileType = folder; path = static; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		593567802908BFBD00E4B4F0 = {
+			isa = PBXGroup;
+			children = (
+				593567892908C59500E4B4F0 /* static */,
+				593567872908BFFB00E4B4F0 /* main.py */,
+				593567882908C06800E4B4F0 /* templates */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		593567812908BFBD00E4B4F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1400;
+			};
+			buildConfigurationList = 593567842908BFBD00E4B4F0 /* Build configuration list for PBXProject "Youtube API" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 593567802908BFBD00E4B4F0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		593567852908BFBD00E4B4F0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		593567862908BFBD00E4B4F0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		593567842908BFBD00E4B4F0 /* Build configuration list for PBXProject "Youtube API" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				593567852908BFBD00E4B4F0 /* Debug */,
+				593567862908BFBD00E4B4F0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 593567812908BFBD00E4B4F0 /* Project object */;
+}
